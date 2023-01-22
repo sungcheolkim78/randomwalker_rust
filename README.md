@@ -1,2 +1,3 @@
 # randomwalker_rust
-random walker simulation written in rust 
+
+Random walker simulation written in rust 
